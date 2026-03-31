@@ -47,12 +47,15 @@ LendRisk-Predictor/
 
 └── requirements.txt    # Environment dependencies
 
-🚀 Setup & Execution
+## 🚀 Setup & Execution
 Install Dependencies:
+
 pip install -r requirements.txt
 
 Download Dataset:
+
 Place cs-training.csv in the /data folder from the Kaggle "Give Me Some Credit" competition.
 
 Run Analysis:
+
 Execute LendRisk_Main.ipynb to view the full training pipeline and 2x2 Evaluation Dashboard.
