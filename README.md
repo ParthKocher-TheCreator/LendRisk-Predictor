@@ -34,13 +34,19 @@ Feature Transparency: Ensuring that model decisions are explainable via feature 
 Data Integrity: Median imputation of income to ensure no borrower is unfairly penalized for missing paperwork.
 
 ## 📂 Project Structure
-Plaintext
+
 LendRisk-Predictor/
+
 ├── data/               # Raw and processed datasets (CSV/Excel)
+
 ├── notebooks/          # Main Jupyter/Colab Analysis
+
 ├── .gitignore          # Prevents heavy data upload to GitHub
+
 ├── README.md           # Professional documentation
+
 └── requirements.txt    # Environment dependencies
+
 🚀 Setup & Execution
 Install Dependencies:
 pip install -r requirements.txt
